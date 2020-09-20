@@ -1,0 +1,27 @@
+PODS:
+  - CSNetwork (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CSNetwork (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CSNetwork:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CSNetwork: e81368ef85333de8342a80241db1ee6891d4d33d
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: daaa90c73dd2b491800a6c3ad2eb1aea3fa689a6
+
+COCOAPODS: 1.9.3

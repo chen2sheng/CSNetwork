@@ -1,0 +1,22 @@
+{
+  "name": "CSNetwork",
+  "version": "0.1.0",
+  "summary": "A short description of CSNetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chen2sheng/CSNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chen2sheng": "crystal-butterfly7@163.com"
+  },
+  "source": {
+    "git": "https://github.com/chen2sheng/CSNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CSNetwork/Classes/**/*"
+}
